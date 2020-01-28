@@ -60,6 +60,6 @@ scrollbar_1.pack(side=BOTTOM,fill=X)
 l1=Listbox(root,width=150, height=10,bg="black",fg="green2",xscrollcommand=scrollbar_1,font="lucida 15 bold")
 l1.pack()
 scrollbar_1.config(command=l1.xview)
-Button(text="Clear",command=clr,bg="dark orange").pack()
+Button(text="Clear",command=clr,bg="orange").pack()
 root.mainloop()
 
