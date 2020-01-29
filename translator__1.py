@@ -31,7 +31,7 @@ def feedback():
 
     if ans == "yes":
 
-        tmsg.showinfo("Go on Store","Thanx for vist our App pls go on Store and Rate us")
+        tmsg.showinfo("Go on Store","Thanx for vist our App pls go on Store and Rate us please")
     
     elif ans == "no":
 
