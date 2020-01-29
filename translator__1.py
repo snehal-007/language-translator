@@ -35,7 +35,7 @@ def feedback():
     
     elif ans == "no":
 
-        tmsg.showinfo("improve","Owk We will learn about it and we will improve Soon a Better Features Thank You")
+        tmsg.showinfo("improve","Owk We will learn about it and we will improve Soon a Better Features Thank You have a good day")
 
 
 user_variable = StringVar()
